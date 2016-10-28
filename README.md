@@ -2,7 +2,7 @@
 ***
 CmdAgent.py can work with CmdClient when you need to control other Client(Machine) by remote way. 
 
-1. CmdAgent.py must started on Client(target PC). 
+1. CmdAgent.py must be started on Client(target PC). 
 2. CmdClient.py is stored on the Master PC which is the main controller.  
 
 ***
