@@ -1,4 +1,4 @@
-# PythonCommand
+# PythonRPC
 ***
 CmdAgent.py can work with CmdClient when you need to control other Client(Machine) by remote way. 
 
